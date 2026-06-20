@@ -15,7 +15,7 @@ Mierzyłem się z różnorodnymi zadaniami z wielu kategorii. Mój oficjalny cer
 * **Wydarzenie:** boroCTF 2026
 * **Format:** Jeopardy-style CTF
 * **Główne Kategorie:** `Cryptography`, `Reverse Engineering`, `Pwn`, `OSINT`, `Forensics`, `Web` 
-* **Miejsce w Rankingu Kategorii HS:** #16 
+* **Miejsce w Rankingu Kategorii HS:** #16 z 251 drużyn
 
 ## 🚀 Kluczowe Wnioski i Zademonstrowane Umiejętności
 * **Rozwiązywanie Problemów:** Analiza złożonych podatności i sprawne rozkładanie wyzwań na czynniki pierwsze.

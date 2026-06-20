@@ -15,7 +15,7 @@ I successfully participated in the event, tackling various challenges across mul
 * **Event:** boroCTF 2026
 * **Format:** Jeopardy-style CTF
 * **Categories Focused On:** `Cryptography`, `Reverse Engineering`, `Pwn`, `OSINT`, `Forensics`, `Web`
-* **Team Rank:** #16
+* **Team Rank:** #16 out of 251
 
 ## 🚀 Key Takeaways & Skills Demonstrated
 * **Problem Solving:** Analyzed complex vulnerabilities and broke down security challenges.
